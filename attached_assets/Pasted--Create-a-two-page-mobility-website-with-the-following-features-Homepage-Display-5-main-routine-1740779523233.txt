@@ -1,0 +1,204 @@
+"Create a two-page mobility website with the following features:​
+
+Homepage:
+
+Display 5 main routines: 'Wake Up', 'Full Body', 'Posture Reset', 'Sleep', and 'Expert'.​
+Each routine should be selectable, allowing users to choose which one they want to perform today.​
+Provide a brief description and list of exercises for each routine.​
+Calendar Page:
+
+Show a calendar highlighting the current date.​
+Replit
+Include a checkmark (✅) button for users to log their progress.​
+When the button is clicked, mark the corresponding date on the calendar with a checkmark to indicate completion.​
+If the button is not clicked, the date remains unmarked.​
+Routine Details:
+
+Wake Up:
+
+Upward Salute​
+Toe Touch​
+Lunge​
+Upward Dog​
+Child's Pose​
+Bubble Forum
++2
+YouTube
++2
+Product Hunt
++2
+Downward Dog​
+Wide Leg Bend​
+Upward Salute​
+Full Body:
+
+Child's Pose​
+Downward Dog​
+YouTube
+Thunderbolt​
+Pigeon​
+Reddit
+Seated Twist​
+YouTube
++1
+Reddit
++1
+Knees-to-Chest​
+Lying Figure Four​
+Lying Hamstring​
+Reclined Butterfly​
+Spinal Twist​
+Quad Stretch​
+Butterfly​
+Seated Fold​
+Plow​
+Posture Reset:
+
+Shoulder Rolls​
+YouTube
++4
+YouTube
++4
+YouTube
++4
+Overhead Reach​
+Side Bend​
+Reddit
++1
+Bubble Forum
++1
+Cactus Arms​
+Reddit
+Neck Flex​
+YouTube
++4
+Replit Docs
++4
+Product Hunt
++4
+Neck Roll​
+Product Hunt
++3
+Bubble Forum
++3
+YouTube
++3
+Neck Laterals​
+YouTube
++1
+Reddit
++1
+Diver​
+Reddit
+Sleep:
+
+Rag Doll​
+Upward Dog​
+YouTube
++6
+YouTube
++6
+YouTube
++6
+Child's Pose​
+Knees-to-Chest​
+Happy Baby​
+YouTube
++4
+YouTube
++4
+YouTube
++4
+Reclined Butterfly​
+Spinal Twist​
+Quad Stretch​
+Legs-Up-Wall​
+Expert:
+
+Upward Salute​
+Rag Doll​
+Chest Opener​
+Toe Touch​
+Replit Docs
++5
+YouTube
++5
+YouTube
++5
+Overhead Tricep​
+Forward Fold​
+One Arm Hug​
+YouTube
++5
+Reddit
++5
+YouTube
++5
+Wide Leg Bend​
+Side Lunge​
+Squat Stretch​
+Lunge​
+Reverse Lunge​
+Kneeling Quad​
+Upward Dog​
+Product Hunt
++7
+YouTube
++7
+YouTube
++7
+Child's Pose​
+Downward Dog​
+Replit Docs
++6
+Reddit
++6
+YouTube
++6
+Thunderbolt​
+Saddle Pose​
+Bubble Forum
++3
+YouTube
++3
+Reddit
++3
+Toe Squat​
+Wrist Extension​
+Product Hunt
+Lizard Pose​
+Product Hunt
++5
+Bubble Forum
++5
+YouTube
++5
+Pigeon​
+Frog Pose​
+YouTube
++4
+Bubble Forum
++4
+YouTube
++4
+Puppy Pose​
+Reddit
+Twisted Sphinx​
+Seated Twist​
+Knees-to-Chest​
+Happy Baby​
+Lying Figure Four​
+Lying Hamstring​
+Reclined Butterfly​
+Spinal Twist​
+Quad Stretch​
+Butterfly​
+Folded Butterfly​
+Product Hunt
+Double Pigeon​
+Seated Fold​
+Seated Straddle​
+Hurdler​
+Shoulder Stand​
+Plow​
+Leg

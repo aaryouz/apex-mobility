@@ -1,0 +1,153 @@
+Create a two-page mobility website with the following features:​
+
+Homepage:
+
+Display 5 main routines: 'Wake Up', 'Full Body', 'Posture Reset', 'Sleep', and 'Expert'.​
+Each routine should be selectable, allowing users to choose which one they want to perform today.​
+List the exercises included in each routine.​
+Calendar Page:
+
+Show a calendar highlighting the current date.​
+Include a checkmark (✅) button for users to log their progress.​
+When the button is clicked, mark the corresponding date on the calendar with a checkmark to indicate completion.​
+If the button is not clicked, the date remains unmarked.​
+Routine Details:
+
+Wake Up:
+
+Upward Salute​
+Toe Touch​
+Lunge​
+Upward Dog​
+Child's Pose​
+Downward Dog​
+Wide Leg Bend​
+Hacker News
++4
+ProtonBits
++4
+Financial Times
++4
+Upward Salute​
+Full Body:
+
+Child's Pose​
+Downward Dog​
+Thunderbolt​
+Pigeon​
+Seated Twist​
+Replit
++1
+YouTube
++1
+Knees-to-Chest​
+Lying Figure Four​
+Lying Hamstring​
+Reclined Butterfly​
+Spinal Twist​
+Quad Stretch​
+Butterfly​
+Seated Fold​
+Plow​
+Posture Reset:
+
+Shoulder Rolls​
+Financial Times
++2
+Replit
++2
+ProtonBits
++2
+Overhead Reach​
+Side Bend​
+Cactus Arms​
+ProtonBits
+Neck Flex​
+Neck Roll​
+Replit Docs
++2
+Hacker News
++2
+YouTube
++2
+Neck Laterals​
+Hacker News
+Diver​
+Sleep:
+
+Rag Doll​
+Upward Dog​
+Child's Pose​
+Hacker News
+Knees-to-Chest​
+Happy Baby​
+ProtonBits
++7
+Hacker News
++7
+Replit Docs
++7
+Reclined Butterfly​
+Spinal Twist​
+Quad Stretch​
+Legs-Up-Wall​
+Expert:
+
+Upward Salute​
+Replit
++2
+Hacker News
++2
+Reddit
++2
+Rag Doll​
+Replit Docs
++1
+Replit
++1
+Chest Opener​
+Toe Touch​
+Replit
++5
+Financial Times
++5
+YouTube
++5
+Overhead Tricep​
+Forward Fold​
+One Arm Hug​
+Wide Leg Bend​
+Side Lunge​
+Squat Stretch​
+Lunge​
+Reverse Lunge​
+Kneeling Quad​
+Upward Dog​
+Child's Pose​
+Downward Dog​
+Thunderbolt​
+Saddle Pose​
+Toe Squat​
+Wrist Extension​
+Lizard Pose​
+Pigeon​
+Frog Pose​
+Puppy Pose​
+Twisted Sphinx​
+Seated Twist​
+Knees-to-Chest​
+Happy Baby​
+Lying Figure Four​
+Lying Hamstring​
+Reclined Butterfly​
+Spinal Twist​
+Quad Stretch​
+Butterfly​
+Folded Butterfly​
+Double Pigeon​
+Seated Fold​
+Seated Straddle​
+Hurdler​
+Shoulder Stand​
+Plow​
+Legs-Up-Wall
