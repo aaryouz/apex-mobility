@@ -4,27 +4,12 @@ export default function Footer() {
   const navigation = {
     product: [
       { name: 'Features', href: '#features' },
-      { name: 'Pricing', href: '#pricing' },
-      { name: 'Testimonials', href: '#testimonials' },
-      { name: 'FAQ', href: '#faq' },
-    ],
-    company: [
       { name: 'About', href: '/about' },
-      { name: 'Blog', href: '/blog' },
-      { name: 'Careers', href: '/careers' },
-      { name: 'Press', href: '/press' },
-    ],
-    resources: [
       { name: 'Documentation', href: '/docs' },
-      { name: 'Guides', href: '/guides' },
-      { name: 'API Reference', href: '/api' },
-      { name: 'Status', href: '/status' },
     ],
     legal: [
       { name: 'Privacy', href: '/privacy' },
       { name: 'Terms', href: '/terms' },
-      { name: 'Security', href: '/security' },
-      { name: 'Cookies', href: '/cookies' },
     ],
   };
 
@@ -44,57 +29,29 @@ export default function Footer() {
             </p>
           </div>
           <div className="mt-12 grid grid-cols-2 gap-8 xl:mt-0 xl:col-span-2">
-            <div className="md:grid md:grid-cols-2 md:gap-8">
-              <div>
-                <h3 className="text-sm font-semibold text-gray-400 tracking-wider uppercase">Product</h3>
-                <ul className="mt-4 space-y-4">
-                  {navigation.product.map((item) => (
-                    <li key={item.name}>
-                      <Link href={item.href} className="text-base text-gray-500 hover:text-gray-900">
-                        {item.name}
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-              <div className="mt-12 md:mt-0">
-                <h3 className="text-sm font-semibold text-gray-400 tracking-wider uppercase">Company</h3>
-                <ul className="mt-4 space-y-4">
-                  {navigation.company.map((item) => (
-                    <li key={item.name}>
-                      <Link href={item.href} className="text-base text-gray-500 hover:text-gray-900">
-                        {item.name}
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
+            <div>
+              <h3 className="text-sm font-semibold text-gray-400 tracking-wider uppercase">Product</h3>
+              <ul className="mt-4 space-y-4">
+                {navigation.product.map((item) => (
+                  <li key={item.name}>
+                    <Link href={item.href} className="text-base text-gray-500 hover:text-gray-900">
+                      {item.name}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
             </div>
-            <div className="md:grid md:grid-cols-2 md:gap-8">
-              <div>
-                <h3 className="text-sm font-semibold text-gray-400 tracking-wider uppercase">Resources</h3>
-                <ul className="mt-4 space-y-4">
-                  {navigation.resources.map((item) => (
-                    <li key={item.name}>
-                      <Link href={item.href} className="text-base text-gray-500 hover:text-gray-900">
-                        {item.name}
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-              <div className="mt-12 md:mt-0">
-                <h3 className="text-sm font-semibold text-gray-400 tracking-wider uppercase">Legal</h3>
-                <ul className="mt-4 space-y-4">
-                  {navigation.legal.map((item) => (
-                    <li key={item.name}>
-                      <Link href={item.href} className="text-base text-gray-500 hover:text-gray-900">
-                        {item.name}
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
+            <div>
+              <h3 className="text-sm font-semibold text-gray-400 tracking-wider uppercase">Legal</h3>
+              <ul className="mt-4 space-y-4">
+                {navigation.legal.map((item) => (
+                  <li key={item.name}>
+                    <Link href={item.href} className="text-base text-gray-500 hover:text-gray-900">
+                      {item.name}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
             </div>
           </div>
         </div>
