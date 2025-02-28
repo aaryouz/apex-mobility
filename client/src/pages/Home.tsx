@@ -24,9 +24,9 @@ export default function Home() {
       <header className="bg-white shadow">
         <div className="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center">
-            <h1 className="text-3xl font-bold text-gray-900">Daily Mobility</h1>
-            <Link href="/calendar">
-              <a className="text-primary hover:text-primary/80">View Progress</a>
+            <h1 className="text-3xl font-bold text-gray-900">Apex Mobility</h1>
+            <Link href="/calendar" className="text-primary hover:text-primary/80">
+              View Progress
             </Link>
           </div>
         </div>
